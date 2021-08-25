@@ -9,6 +9,7 @@ class GithubTestApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("yyy is bigSB");
+        System.out.println("第二次上传");
     }
 
 }
